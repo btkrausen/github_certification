@@ -1,4 +1,4 @@
-# Welcome to the Unofficial Study Guides for GitHub Certifications
+# Unofficial Study Guides for GitHub Certifications
 
 ![GitHub Certifications](./img/certification_badges.png)
 
