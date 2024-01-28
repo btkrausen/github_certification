@@ -13,12 +13,8 @@ Highlight your understanding of the foundational topics and concepts of collabor
 * [Privacy, Security, and Administration](./Domain%206:%20Privacy,%20Security,%20and%20Administration/guide.md) (20%)
 * [Benefits of the GitHub Community](./Domain%207:%20Benefits%20of%20the%20GitHub%20Community/guide.md) (10%)
 
-## Official Exam Website
-[GitHub Certification Page](https://resources.github.com/learn/certifications/)
+## [Official Exam Website](https://resources.github.com/learn/certifications/)
 
-## Official Exam Study Guide
-[GitHub Foundations Study Guide](https://assets.ctfassets.net/wfutmusr1t3h/1kmMx7AwI4qH8yIZgOmQlP/4e60030cc6c76688698652e830ea2a48/github-foundations-exam-study-guide.pdf)
+## [Official Exam Study Guide](https://assets.ctfassets.net/wfutmusr1t3h/1kmMx7AwI4qH8yIZgOmQlP/4e60030cc6c76688698652e830ea2a48/github-foundations-exam-study-guide.pdf)
 
-## GitHub Foundations Practice Exam (Udemy)
-[GitHub Foundations Certification - Practice Exam](https://btk.me/ghp)
-
+## [GitHub Foundations Practice Exam (Udemy)](https://btk.me/ghp)
