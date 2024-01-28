@@ -1,2 +1,6 @@
-# github_certification
-Public Repo to Offer Link and Study Material for GitHub Certifications
+# Welcome to the Unofficial Study Guides for GitHub Certifications
+
+![GitHub Certifications](./img/certification_badges.png)
+
+
+
