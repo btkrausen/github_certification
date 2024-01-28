@@ -17,4 +17,4 @@ Highlight your understanding of the foundational topics and concepts of collabor
 
 ## [Official Exam Study Guide](https://assets.ctfassets.net/wfutmusr1t3h/1kmMx7AwI4qH8yIZgOmQlP/4e60030cc6c76688698652e830ea2a48/github-foundations-exam-study-guide.pdf)
 
-## [GitHub Foundations Practice Exam (Udemy)](https://btk.me/ghp)
+## [GitHub Foundations Practice Exam --> Udemy](https://btk.me/ghp)
