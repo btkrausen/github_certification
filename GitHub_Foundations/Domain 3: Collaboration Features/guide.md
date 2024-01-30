@@ -11,11 +11,9 @@ Domain 3 = 15% of the exam, so you should expect around 9 questions on the topic
 
 ### Describe the difference between an issue, discussion, and pull request
 > https://foundations.projectpythia.org/foundations/github/github-issues.html#
-<br />
-<br />
+
 > https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/about-discussions
-<br />
-<br />
+
 > https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#differences-between-commits-on-compare-and-pull-request-pages
 
 ### Explain how to create a branch from an issue
@@ -55,14 +53,12 @@ Domain 3 = 15% of the exam, so you should expect around 9 questions on the topic
 
 ### Describe draft pull requests
 > https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
-<br />
-<br />
+
 > https://github.blog/2019-02-14-introducing-draft-pull-requests/
 
 ### Describe the purpose of the pull request tabs (conversation, commits, checks, files changed)
 > https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/collaborating-on-repositories-with-code-quality-features/about-status-checks
-<br />
-<br />
+
 > https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
 
 ### Identify how to link activity within a pull request
