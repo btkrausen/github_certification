@@ -1,4 +1,4 @@
-![GitHub Administration](../img/github_admin.jpg)
+![GitHub Administration](../img/github_administration.jpg)
 
 # GitHub Administration Certification Guide
 Certify your ability to optimize and manage a healthy GitHub environment with the GitHub Admin exam. Highlight your expertise in repository management, workflow optimization, and efficient collaboration to support successful projects on GitHub.
