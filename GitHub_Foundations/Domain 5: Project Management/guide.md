@@ -5,10 +5,8 @@ Domain 5 = 20% of the exam, so you should expect around 12 questions on the topi
 
 ### Describe GitHub Projects
 > https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects
-<br />
-<br />
+<br/>
 > https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects
-<br />
 <br />
 > https://docs.github.com/en/issues/tracking-your-work-with-issues/assigning-issues-and-pull-requests-to-other-github-users
 
