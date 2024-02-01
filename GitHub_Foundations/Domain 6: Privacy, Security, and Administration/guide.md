@@ -23,7 +23,7 @@ Domain 6 = 20% of the exam, so you should expect around 12 questions on the topi
 > https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/repository-roles-for-an-organization
 
 ### Identify the options for repository visibility
-> https://docs.github.com/de/organizations/managing-organization-settings/restricting-repository-visibility-changes-in-your-organization
+> https://docs.github.com/en/organizations/managing-organization-settings/restricting-repository-visibility-changes-in-your-organization
 
 ### Explain repository privacy setting options (branch protections, codeowners, required reviewers)
 > https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches
