@@ -18,7 +18,10 @@ Domain 1 = 10% of the exam, so you should expect around 6 questions on the topic
 
 > https://docs.github.com/en/actions/using-workflows/manually-running-a-workflow
 
-> > https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#workflow_dispatch
+> https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#workflow_dispatch
+
+> https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api?apiVersion=2022-11-28
+
 
 ### Configure workflows to run for webhook events (i.e. check_run, check_suite, deployment, etc.)
 
@@ -31,6 +34,7 @@ Domain 1 = 10% of the exam, so you should expect around 6 questions on the topic
 ### Identify the correct syntax for workflow jobs (i.e. indentation and encapsulation of parts of the workflow)
 
 ### Use job steps for actions and shell commands
+> https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions
 
 ### Use conditional keywords for steps
 
