@@ -4,11 +4,17 @@ Domain 4 = 25% of the exam, so you should expect around 15 questions on the topi
 ## Use available action types
 
 ### Identify the type of action required for a given problem (i.e. JavaScript, Docker container, run step)
+> https://docs.github.com/en/actions/creating-actions/about-custom-actions
 
 ### Demonstrate how to troubleshoot JavaScript actions
+> https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action
+
+> https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/using-workflow-run-logs
+
+> https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/enabling-debug-logging
 
 ### Demonstrate how to troubleshoot Docker container actions
-
+> https://docs.github.com/en/actions/creating-actions/dockerfile-support-for-github-actions
 
 ## Describe the components of an action
 
