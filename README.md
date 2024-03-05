@@ -10,3 +10,4 @@
 ### Looking for a Training Course to Help You on The Journey? Check out the Course Below
 
 <a href="https://btk.me/ghp"> <img align="center" alt="" src="./img/foundations_practice.png" width="200" height="275" /></a>
+<a href="https://btk.me/gha"> <img align="center" alt="" src="./img/actions.png" width="170" height="275" /></a>
